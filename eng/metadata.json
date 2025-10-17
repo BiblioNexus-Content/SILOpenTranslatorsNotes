@@ -27,8 +27,8 @@
       "showAdaptationNoticeForNonEnglish": false
     },
     "adaptation_notice": "",
-    "collection_code": "SILOpenTranslatorsNotes",
-    "date_created": "2025-10-15",
+    "resource_code": "SILOpenTranslatorsNotes",
+    "date_created": "2025-10-16",
     "language": "eng",
     "localizations": [],
     "order": "canonical",
@@ -40,7 +40,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-15T16:41:04.283746"
+      "dateCreated": "2025-10-16T16:04:44.201028"
     },
     "idAuthorities": {
       "aquifer": {
@@ -54,7 +54,7 @@
       "primary": {
         "aquifer": {
           "SILOpenTranslatorsNotes": {
-            "timestamp": "2025-10-15T16:41:04.283746"
+            "timestamp": "2025-10-16T16:04:44.201028"
           }
         }
       },
